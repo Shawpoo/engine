@@ -5,7 +5,7 @@
 package io.flutter.plugin.common;
 
 import android.util.Log;
-import androidx.annotation.Nullable;
+import android.support.annotation.Nullable;
 import io.flutter.BuildConfig;
 
 /**
