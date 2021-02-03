@@ -10,7 +10,6 @@ import android.view.KeyEvent;
 import android.view.View;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
-import io.flutter.Log;
 import io.flutter.embedding.engine.systemchannels.KeyEventChannel;
 import io.flutter.plugin.editing.TextInputPlugin;
 import java.util.AbstractMap.SimpleImmutableEntry;
